@@ -1,0 +1,15 @@
+{
+  "name": "com.kc-works.gsplugin",
+  "version": "0.0.1",
+  "displayName": "GSPlugin",
+  "description": "This package is tools for google spreadsheet",
+  "unity": "2019.4",
+  "author": {
+    "name": "Kohei Imatomi",
+    "email": "kohei.imatomi@gmail.com",
+    "url": "http://kc-works.com/"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+  }
+}
